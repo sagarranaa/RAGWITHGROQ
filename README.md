@@ -3,6 +3,10 @@
 An AI-powered application that allows users to upload PDFs and interact with them using natural language. Built using Retrieval-Augmented Generation (RAG) with fast inference powered by Groq.
 
 ---
+<img width="1848" height="1053" alt="groq2" src="https://github.com/user-attachments/assets/837a3bf2-4d39-4a31-ad53-9d9c25fa470a" />
+<img width="1848" height="1053" alt="groq1" src="https://github.com/user-attachments/assets/9f3e50f3-debb-4b18-8b03-6ad581da84b7" />
+
+
 
 ## 📌 Features
 
